@@ -1,5 +1,7 @@
 # prespeculation
 
+Edit: 11/07/2024 - improvements from ChatGPT
+
 Prefetch/preload links on hover and prerender on click via Speculation Rules API
 
 ## Features
